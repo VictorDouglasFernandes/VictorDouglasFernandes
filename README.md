@@ -10,18 +10,17 @@ Struggling to not get crazy and addicted to coffee. ☕
 Looking for my first dev intership or job. 💼
 
 ### Currently Studying:
-🟠 HTML<br>
-🔵 CSS<br>
-🟡 JS<br>
-🔵 TS<br>
-🔴 Angular
+🔵 Dart<br>
+🔵 Flutter<br>
 
 ### Wish list to study:
+🔵 TS<br>
+🔴 Angular<br>
 🔵 React<br>
 🟣 Redux<br>
 🟡 AWS<br>
 🟣 GraphQL<br>
-🟢 Mobile Development
+
 
 <!--
 **VictorDouglasFernandes/VictorDouglasFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
