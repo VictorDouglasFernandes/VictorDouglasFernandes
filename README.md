@@ -3,23 +3,19 @@
 
 ### Please take a seat 🪑
 
-I'm a college student getting my bachelor's degree in information systems.
+I'm a mobile developer working with <b>Flutter</b> since september 2021 and college student getting my bachelor's degree in information systems.
 
 Struggling to not get crazy and addicted to coffee. ☕
-
-Looking for my first dev intership or job. 💼
 
 ### Currently Studying:
 🔵 Dart<br>
 🔵 Flutter<br>
 
 ### Wish list to study:
-🔵 TS<br>
-🔴 Angular<br>
-🔵 React<br>
-🟣 Redux<br>
+🟠 Android<br>
+🟣 IOS<br>
+🔴 Java<br>
 🟡 AWS<br>
-🟣 GraphQL<br>
 
 
 <!--
